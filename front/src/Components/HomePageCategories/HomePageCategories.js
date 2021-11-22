@@ -4,7 +4,7 @@ import './homePageCategories.css'
 export const HomePageCategories = () => {
     return (
         <div>
-            <h2>Categories</h2>
+            <h2>Mes visites</h2>
             <div className="categorie-container">
                 <div className="categorie">
                     <img className="categorie-img" src="https://media.istockphoto.com/photos/saint-benezet-bridge-in-avignon-in-a-beautiful-summer-day-france-picture-id1250971698?b=1&k=20&m=1250971698&s=170667a&w=0&h=MY7izg_Amu215BbRnjgzfKgoeksPUecTQxJN7QRYjP4=" />
